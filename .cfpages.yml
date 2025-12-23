@@ -1,6 +1,0 @@
-# .cfpages.yml
-deploy:
-  command: npm run build
-  output_dir: dist
-  compatibility_flags:
-    - nodejs_compat
